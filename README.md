@@ -1,6 +1,25 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Setting Up Node.js URL
+
+To configure the Node.js URL in your React project, follow these steps:
+
+1. Navigate to the `src` directory of your project.
+
+2. Create a new file named `constants.js`.
+
+3. Inside `constants.js`, define the following constant:
+
+    ```javascript
+    // src/constants.js
+
+    export const API_URL = 'http://your-nodejs-api-url.com';
+    ```
+
+4. Save the file.
+
+5. You can now use the `API_URL` constant throughout your project to access your Node.js API endpoints.
 
 ## Available Scripts
 
