@@ -1,6 +1,19 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Installing Dependencies
+
+To install all the necessary dependencies for your React project, including Material-UI and React-Toastify, follow these steps:
+
+1. Open your terminal or command prompt.
+
+2. Navigate to the root directory of your project.
+
+3. Run the following command to install all dependencies using npm:
+
+```bash
+npm install
+
 ## Setting Up Node.js URL
 
 To configure the Node.js URL in your React project, follow these steps:
